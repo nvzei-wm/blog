@@ -3,11 +3,11 @@ layout: post
 title: Contact Us
 ---
 
-Find us on [Instagram](https://www.instagram.com/nvzei_collective_wbg/)
-or email nvzei_wm@proton.me 
+ <p><center>Find us on [Instagram](https://www.instagram.com/nvzei_collective_wbg/)
+or email nvzei_wm@proton.me </center></p>
 
 <br>
 <br>
 <br>
 
-*“Totalitarianism and patriarchy burn together”*
+ <p><center>*“Totalitarianism and patriarchy burn together”*</center></p>
