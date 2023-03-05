@@ -17,7 +17,7 @@ title: 小堡女贼联盟
 email: nvzei-wm@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   League of Chinese Feminists @ W&M
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://nvzei-wm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 #twitter_username: patdryburgh
